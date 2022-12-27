@@ -45,6 +45,15 @@ int main() {
         return 1;
     }
 
+    // convert any IPv4 to IPv6
+    int option = 0;
+    if(setsockopt(socket_listen, IPPROTO_IPV6, IPV6_V6ONLY,
+                  (void*)&option, sizeof(option))) {
+
+        fprintf(stderr, "setsockopt() failed. (%d)\n", errno);
+        return 1;
+    }
+
     printf("Binding socket to local address...\n");
     if(bind(socket_listen,
             bind_address->ai_addr, bind_address->ai_addrlen)) {
