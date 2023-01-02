@@ -1,3 +1,3 @@
-# Network Programming in C
+# Network Programming in C++
 
-uses Hands-On Network Programming with C by Lew Van Winkle
+TCP Server using module structure and multithreading

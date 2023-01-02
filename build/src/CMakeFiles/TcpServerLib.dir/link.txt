@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTcpServerLib.a CMakeFiles/TcpServerLib.dir/TcpServerController.cpp.o CMakeFiles/TcpServerLib.dir/TcpConnectionAcceptor.cpp.o CMakeFiles/TcpServerLib.dir/TcpClientDbManager.cpp.o CMakeFiles/TcpServerLib.dir/TcpClientServiceManager.cpp.o
+/usr/bin/ranlib libTcpServerLib.a
