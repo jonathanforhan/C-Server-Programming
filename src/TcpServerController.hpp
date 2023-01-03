@@ -14,6 +14,9 @@ public:
     TcpServerController();
     ~TcpServerController();
 
+    void Start();
+    void Stop();
+
     uint32_t ip_addr;
     uint16_t port;
     std::string name;
