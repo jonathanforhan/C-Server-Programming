@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tcp_server.dir/main.c.o -o tcp_server  src/libtcp_lib.a 

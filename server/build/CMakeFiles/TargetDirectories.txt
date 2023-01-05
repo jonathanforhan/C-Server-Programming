@@ -1,0 +1,6 @@
+/home/jon/dev/csock/server/build/CMakeFiles/tcp_server.dir
+/home/jon/dev/csock/server/build/CMakeFiles/edit_cache.dir
+/home/jon/dev/csock/server/build/CMakeFiles/rebuild_cache.dir
+/home/jon/dev/csock/server/build/src/CMakeFiles/tcp_lib.dir
+/home/jon/dev/csock/server/build/src/CMakeFiles/edit_cache.dir
+/home/jon/dev/csock/server/build/src/CMakeFiles/rebuild_cache.dir
